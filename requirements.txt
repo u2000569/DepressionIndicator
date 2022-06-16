@@ -4,3 +4,4 @@ numpy==1.19.5
 matplotlib
 sklearn
 tensorflow
+spotipy
