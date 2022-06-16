@@ -10,6 +10,7 @@ import sys
 import warnings
 warnings.filterwarnings("ignore")
 import pandas as pd
+import matplotlib
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix
