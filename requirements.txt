@@ -7,4 +7,3 @@ tensorflow
 spotipy
 livelossplot
 stqdm
-seaborn
