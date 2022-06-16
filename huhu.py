@@ -4,7 +4,6 @@
 # # Depression detector by favourite Spotify Playlist
 
 # In[2]:
-!pip install scikit-learn -- quiet
 
 import sys
 import warnings
