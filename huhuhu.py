@@ -10,12 +10,11 @@ import sys
 import warnings
 warnings.filterwarnings("ignore")
 import pandas as pd
-from matplotlib import pyplot as plt
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import confusion_matrix
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
-import seaborn as sns
+
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn import preprocessing
